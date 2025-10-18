@@ -1,2 +1,3 @@
 # Iris-classification-ml-model
 This project focuses on building a Machine Learning model to classify iris flower species using the classic Iris dataset. The workflow includes data cleaning, exploratory analysis, and preprocessing to ensure high-quality inputs. Multiple classification algorithms were tested with hyperparameter tuning to identify the best performing model. Finally, a Logistic Regression Classifier was selected, achieving strong accuracy. The model was deployed through an interactive Streamlit web app, allowing users to input flower measurements and instantly receive predictions.
+you can see it on >>>> https://iris-classification-ml-model.streamlit.app/
